@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Moje_projekty\\APISzkolenia\\APISzkolenia\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E2080EB-EF4B-4E6F-BD0C-CE37F8867E1B}|Grzanek\\API.csproj|d:\\moje_projekty\\apiszkolenia\\apiszkolenia\\grzanek\\api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{5E2080EB-EF4B-4E6F-BD0C-CE37F8867E1B}|Grzanek\\API.csproj|solutionrelative:grzanek\\api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "API.http",
+              "DocumentMoniker": "D:\\Moje_projekty\\APISzkolenia\\APISzkolenia\\Grzanek\\API.http",
+              "RelativeDocumentMoniker": "Grzanek\\API.http",
+              "ToolTip": "D:\\Moje_projekty\\APISzkolenia\\APISzkolenia\\Grzanek\\API.http",
+              "RelativeToolTip": "Grzanek\\API.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-06-04T22:22:50.308Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

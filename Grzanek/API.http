@@ -1,0 +1,6 @@
+@API_HostAddress = http://localhost:44392
+
+GET {{API_HostAddress}}/Szkolenia
+Accept: application/json
+
+###
